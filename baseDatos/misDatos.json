@@ -1,0 +1,9 @@
+{
+    "tripulantes" : {
+        "777": ["Andrés" , "Guerrero"],
+        "888": ["Bryan" , "Izquierdo"],
+        "999": ["Ramón" , "Valdez", ["5" , "4", "3", "2" , "1.3"]],
+        "222": ["Ñoño" , "Panzón"],
+        "555": ["Saúl" , "Hermano"]
+    }
+}
