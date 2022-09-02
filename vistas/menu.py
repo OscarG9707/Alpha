@@ -12,6 +12,7 @@ def mostrar():
     print('* 4. Definitiva ciclo I                                            *')
     print('* 5. Cargar información de json                                    *')
     print('* 6. Grabar información de json                                    *')
+    print('* 7. Menu 7 para git                                               *')
     print('*                                                                  *')
     print('* 0. Para salir                                                    *')
     print(colorear('********************************************************************', 'green', attrs= ['reverse','blink']))
