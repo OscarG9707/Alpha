@@ -14,6 +14,8 @@ def mostrar():
     print('* 6. Grabar información de json                                    *')
     print('* 7. Menu 7 para git                                               *')
     print('* 8. Menu 8 para git                                               *')
+    print('* 9. Menu 9 para git                                               *')
+    print('* 10. Menu 10 para git                                             *')
     print('*                                                                  *')
     print('* 0. Para salir                                                    *')
     print(colorear('********************************************************************', 'green', attrs= ['reverse','blink']))
